@@ -29,5 +29,5 @@ npm run dev
 Open http://localhost:5173
 
 ## Developer
-Monu Gautam — B.Sc. IT Student  
+Monu Gautam — B.Sc. IT graduate
 GitHub: [monu655](https://github.com/monu655)
